@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://sundarr.netlify.app/](https://sundarr.netlify.app/)
 
-- 👨‍💻 By my Course  [Course Available At]([buymeacoffee.com/sundar_Tech_Mind](https://buymeacoffee.com/sundar_tech_mind/extras))
+- 👨‍💻 By my Course [My Course Available At](https://buymeacoffee.com/sundar_tech_mind/extras)
 
 
 <h3 align="left">Connect with me:</h3>
