@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Sicky](https://sicky.com.au/)
 
-- 👨‍💻 All of my projects are available at [https://sundarr.netlify.app/](https://sundar--r.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sundar--r.netlify.app/](https://sundar--r.netlify.app/)
 
 - 💬 Ask me about **C#,.Net,React, React Native, Vue, Angular,Node.js etc,...**
 
 - 📫 How to reach me **sundards62@gmail.com**
 
-- 📄 Know about my experiences [https://sundarr.netlify.app/](https://sundar--r.netlify.app/)
+- 📄 Know about my experiences [https://sundar--r.netlify.app/](https://sundar--r.netlify.app/)
 
 - 👨‍💻 By my Course [My Course Available At](https://buymeacoffee.com/sundar_tech_mind/extras)
 
